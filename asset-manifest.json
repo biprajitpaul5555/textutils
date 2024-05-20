@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/textutils/static/js/main.2dbd1834.js",
+    "index.html": "/textutils/index.html",
+    "main.2dbd1834.js.map": "/textutils/static/js/main.2dbd1834.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2dbd1834.js"
+  ]
+}
